@@ -40,7 +40,7 @@ namespace LuckBot
                 .AddSingleton(command)
                 .BuildServiceProvider();
 
-            var token = "NjY5NjI4ODU2MzQ4NDQyNjI0.Xiim4w.jH5wP-Ob_n-SS5dNnVPAfB-dZuE";
+            var token = "############################################";
 
             client.Log += log;
 
